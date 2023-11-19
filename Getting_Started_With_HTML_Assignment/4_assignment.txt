@@ -1,0 +1,14 @@
+Tag:-
+An HTML tag is a piece of markup language used to indicate the beginning and end of an HTML element in an HTML document. 
+As part of an HTML element,HTML tags help web browsers convert HTML documents into web pages.
+
+Example:-
+<h1> heading tag </h1>
+here, <h1> is a opening tag and </h1> is  a closing tag.
+
+element:-
+An HTML element is a complete unit that includes an opening tag, content, and a closing tag.
+Example:-
+<h1> heading tag </h1>
+here, <h1> is a opening tag, "heading tag" is description and </h1> is  a closing tag.together it form element
+

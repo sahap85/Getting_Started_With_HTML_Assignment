@@ -1,0 +1,5 @@
+comment in html is used in the source code.
+It is not rendered in the browser. 
+It is mainly useful to edit the code later.
+
+example:- <!--  -->   this tag is used for commenting in html source code
